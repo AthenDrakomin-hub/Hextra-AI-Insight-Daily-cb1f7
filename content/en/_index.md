@@ -3,100 +3,80 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-05
+next: /en/2026-02/2026-02-06
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2026/2/6
+## AI Daily Briefing: February 8, 2026
 
-> AI News | Daily Brief | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Open Mic | Open Source Innovation | AI & Humanity's Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join the Community 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Morning Read` | `Aggregated Data` | `Cutting-Edge Science` | `Industry Voice` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Digest**
+### **Today's Top Stories**
 
 ```
-Keling AI 3.0 reworks underlying logic, supports native 4K and smart shot segmentation
-Tiangong launches desktop Agent, system-level processing to rival Claude
-AntChain Lingbo open-sources embodied AI model, aims to build robot brains
-Google and Apple forge cloud service alliance, China's AI user base exceeds 600 million
-HKU open-sources minimalist Jarvis, pure Python implementation lowers barrier
+Waymo and DeepMind launch Genie3 world model, generating ultra-realistic 3D simulation environments.
+Mianbi Intelligence's Pinecone Pi 275TOPS computing board supports offline edge large model operation.
+Qianwen App's 3 billion free order campaign breaks 5 million orders in 5 hours, topping Apple's free chart.
+OmniMoE's vector-level atomic expert routing reduces complexity to O(√N), boosting inference speed by 10.9x.
+China's 3 Dawn scaleX ten-thousand card clusters go online, supporting trillion-parameter model training.
 ```
 
 ### Product & Feature Updates
 
-1.  **Keling AI 3.0 Officially Released.**
-    Keling AI steps into a brand new [3.0 Era (AI News)](https://www.aibase.com/zh/news/25294), boasting a complete rewrite of its underlying logic. This fresh version introduces smart shot segmentation, giving video generation a cinematic narrative feel. Image quality gets a boost too, with native 🎨 4K output support, making multi-modal collaborative creation super smooth. ✨
-    <br/>![AI News: Keling AI 3.0 generated cinematic multi-shot video footage](https://source.hubtoday.app/images/2026/02/news_01kgq9653yfh88ntw5yjx30zp1.avif)<br/>
+1.  **Waymo** just dropped a [new world model (AI News)](https://www.jiqizhixin.com/articles/2026-02-07-5) built on Genie 3, in collaboration with DeepMind. This bad boy can whip up ultra-realistic 3D environments, simulating everything from tornadoes to unexpected elephant encounters! It supports multi-sensor data output, letting engineers tweak simulations with simple language prompts. Pretty neat, right?
 
-2.  **Tencent Games Upgrades Winter Holiday Anti-Addiction Measures.**
-    Tencent Games is tightening up its anti-addiction rules for minors during the winter holidays. Minors are now limited to just [one hour of gaming in the evening (AI News)](https://www.aibase.com/zh/news/25310), with a strict total playtime cap of fifteen hours. The platform has introduced AI for one-click parental control, making it super easy for parents to keep tabs on their kids' activities. Plus, a new AI weekly report 📊 breaks down gaming behavior, offering more personalized protection plans. 🎮
-    <br/>![AI News: Tencent Games releases winter holiday minor play-time limit calendar and AI control features](https://source.hubtoday.app/images/2026/02/news_01kgq967x3ecvtscz1qm6jne5e.avif)<br/>
+2.  **Mianbi Intelligence** [unveiled its first AI-native edge development board (AI News)](https://www.aibase.com/zh/news/25353), the Pinecone Pi. This board packs a punch with **275TOPS computing power**, perfectly suited for MiniCPM edge large models, and comes with integrated microphones and cameras. It supports natural language direct control of hardware 💡, and offline operation ensures top-notch privacy. Expect a full launch mid-2026!
+    <br/>![AI News: Pinecone Pi Development Board Appearance](https://source.hubtoday.app/images/2026/02/news_01kgw5qffzebhbp6r82dh4jwt4.avif)<br/>
 
-3.  **Tiangong Launches Desktop AI Assistant.**
-    Tiangong has rolled out its 💻 desktop [Agent (AI News)](https://x.com/oran_ge/status/2019201553475989575), positioned as a direct competitor to Claude, featuring system-level file processing capabilities. It supports batch organization 📂 and multi-modal output, coming packed with over a hundred practical skills. To ensure security, it uses virtual machine isolation 🛡️, and Windows users can jump in for an early bird experience. 🚀
-    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgq96eamec4a7jqcj0jyacth.mp4" controls="controls" width="100%"></video><br/>
+3.  **Qianwen App** has absolutely dominated the Apple App Store, with its [3 billion free order campaign (AI News)](https://www.qbitai.com/2026/02/377505.html) breaking 5 million orders in just 5 hours! 🎉 This pushed it past Doubao and Yuanbao to claim the #1 spot on the free chart, creating a "Qian-Yuan-Dou" market dynamic. Milk tea shops saw orders explode, and delivery riders were raking in hundreds in a single morning. Plus, it's integrated with Taobao Flash Purchase and Alipay, becoming a truly "get-things-done" AI assistant.
 
-### Cutting-Edge Research
+4.  **Volcano Engine's AgentKit** is here to tackle enterprise adoption challenges, specifically targeting the OpenClaw security vulnerability issue 🛡️. This solution uses AI reverse engineering to intelligently transform existing systems. With its MCP tool, it achieves precise recall, slashing **Token consumption by 70%**. Its zero-trust identity system ensures every tool call is controllable and auditable. Strong stuff! 💪
 
-1.  **AntChain Lingbo Open-Sources Embodied AI Model.**
-    AntChain Lingbo has been on a roll, open-sourcing four [physical AI models (AI News)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651015544&idx=1&sn=6cf63094131bf3752559cc41921eb14c) in just one week! 🚀 They're all about bridging the gap from the digital to the physical world. The team is super committed to using 🧪 real-world data, with their LingBot-VA model already pulling off imaginative reasoning. They're totally steering clear of purely simulation-based routes (bye-bye, virtual worlds!) and are laser-focused on building the brains for robots. 🧠
-    <br/>![AI News: AntChain Lingbo Embodied AI Robot LingBot Operation Demo](https://source.hubtoday.app/images/2026/02/news_01kgq96jxxfa9tczxkm9efs5cj.gif)<br/>
+### Frontier Research
 
-2.  **Large Models Accurately Analyze Political Stance.**
-    Turns out, contextual information plays a crucial role when LLMs 🧠 analyze [informal discourse (AI News)](https://arxiv.org/abs/2602.04750), according to new research. By generating structured user profiles 👤, model accuracy shot up by nearly forty percent! Strategically picking 💡 historical posts works way better than just random context. Pretty neat, huh? 🤔
+1.  **GenArena** has introduced a new framework for visual generation evaluation, shaking things up! Traditional evaluation methods often miss the mark with human perception 🧠, but the [GenArena paper (AI News)](https://arxiv.org/abs/2602.06013) offers a solution. By using a paired comparison paradigm instead of absolute scoring, open-source models actually outshine top closed-source ones! Evaluation accuracy jumps by **over 20%**, and its correlation with the LMArena leaderboard hits 0.86 💡, far surpassing conventional methods.
 
-3.  **New Framework Reveals Generative Model Divergence.**
-    The PromptSplit framework 🔍 is all about [detecting model divergence (AI News)](https://arxiv.org/abs/2602.04009) and dissecting the impact of different prompts. By using kernel methods 📊 to build joint representations, it cleverly pinpoints the exact prompts causing those differences. This tool offers a super cool, explainable new perspective for understanding how generative models 🤖 behave.
+2.  **OmniMoE** is pushing the boundaries of expert granularity! The Mixture-of-Experts (MoE) architecture gets a [further evolution (AI News)](https://arxiv.org/abs/2602.05711) with the introduction of vector-level atomic experts. Its Cartesian product router slashes routing complexity from O(N) to O(√N). With 1.7 billion active parameters, it achieves **50.9% zero-shot accuracy**, and inference latency drops from 73ms to a blazing 6.7ms ⚡—that's a 10.9x speedup! The code is already open source, too.
 
 ### Industry Outlook & Social Impact
 
-1.  **Google & Apple Forge Cloud Service Alliance.**
-    Google has officially become Apple's 🍏 go-to [cloud service provider (AI News)](https://www.aibase.com/zh/news/25312), with Gemini tech now powering Apple's new models. Google is planning to pump 💰 massive funds into building infrastructure to keep up with the soaring computing demands. Their cloud business revenue 📈 is hitting new highs, and this partnership is definitely driving AI tech innovation forward. Talk about a power couple! 💪
+1.  **Su Weijie** has received the prestigious COPSS Award, the highest honor in statistics—often called the "Nobel Prize of Statistics" ✨. A Chinese scholar has earned this recognition again after 14 years! Su Weijie, an associate professor at UPenn, was honored for his contributions to large model statistical foundations and privacy-preserving data analysis. His proposed **Gaussian differential privacy framework** was even used in the 2020 US Census 💡, marking him as a key figure from Peking University's "Golden Generation" of mathematics.
 
-2.  **China's AI User Base Surpasses 600 Million.**
-    Generative AI adoption in China 🇨🇳 has totally blown up, with its penetration rate now [over 40% (AI News)](https://www.aibase.com/zh/news/25303) and a user base of 602 million people! Half of all netizens are now using 💻 AI products, shifting the tech from just a cool novelty to a serious productivity tool. And get this: the scale of intelligent computing clusters 🚀 is massive, keeping China's computing power firmly among the global leaders. Big moves! 💥
+2.  **Amap's Eagle Eye System** has received a major upgrade, ready to safeguard this year's Spring Festival travel rush. With an estimated [9.5 billion person-times flowing (AI News)](https://www.qbitai.com/2026/02/377529.html) and 80% choosing self-driving, it's a huge undertaking. Boosted by the Amap TrafficVLM model, the upgraded system can proactively identify **24 types of potential risks** and send second-level warnings. Last National Day, G2 Beijing-Shanghai Expressway saw accidents drop by about 10% year-on-year ⬇️, proving that the more users, the more accurate the warnings get.
 
-3.  **VC Firm a16z Bets Big on AI Infrastructure.**
-    Top-tier VC firm a16z has raised 💸 a boatload of cash, specifically [investing in AI infrastructure (AI News)](https://www.aibase.com/zh/news/25286) with a whopping $1.7 billion allocated just for that. They're laser-focused on computing power 🏗️ and search tech, tackling the talent crunch faced by startups. Their game plan? To snag the dominant voice in AI for the next decade. Talk about playing the long game! 🔮
+3.  **China's AI computing clusters** have just gone live with 30,000 AI cards. While Musk talks about "refining alchemy in space" 🚀, China is firmly grounded: three Dawn scaleX [ten-thousand card superclusters (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652672670&idx=1&sn=efc09f289fa751b3cecf9c566c6cec60) are now operational at national supercomputing internet core nodes. These beasts can support **trillion-parameter model** training. With an open architecture compatible with multiple domestic AI card brands, they've already adapted to over 400 mainstream large models. Talk about serious compute! 💪
 
-4.  **Microsoft Launches AI Content Marketplace.**
-    Microsoft has built a platform to tackle ⚖️ [data copyright disputes (AI News)](https://www.aibase.com/zh/news/25281), with media bigwigs like Yahoo already jumping in. It's designed to provide 🤝 compliant data sources for AI training, ensuring creators get transparent earnings. Basically, they're turning copyright squabbles (uwu - *yeah, we said it*) into a sustainable, win-win business model. Smart move! 💡
+4.  **Anthropic and OpenAI** are locked in an AI ad battle! Anthropic's Super Bowl commercial [mocking ChatGPT for adding ads (AI News)](https://www.jiqizhixin.com/articles/2026-02-06-6) promised Claude would remain permanently ad-free 🚫. OpenAI's Sam Altman fired back with an essay, accusing Anthropic of "double standards" 😤 and emphasizing that OpenAI faces different challenges serving 800 million users. Netizens are debating the two companies' business model differences, especially since OpenAI is projected to burn through **$9 billion** this year. Wild times!
 
-5.  **Altman Responds to AI Advertising Controversy.**
-    Anthropic's "no ads" slogan 🚫 has really stirred the pot, with Altman [responding to the post (AI News)](https://newshacker.me/story?id=46894151) and sparking a heated ethical debate. The public is questioning if commercialization 💰 isn't just a matter of time, but also if ads could strip users of their decision-making power. This PR battle 🔥 totally exposes the ongoing tug-of-war between revenue and ethics for tech giants. What a dilemma! 🤯
+### Open Source TOP Projects
 
-### Top Open Source Projects
+1.  **The Shannon project** has gone viral! This [Shannon project (AI News)](https://github.com/KeygraphHQ/shannon) ⭐8.0k is all about finding vulnerabilities in web applications 🔍. It achieved an impressive **96.15% success rate** in the prompt-free, source-aware XBOW benchmark. Fully automated, it uncovers real security flaws, making it a powerful new weapon for security researchers. 🛡️
 
-1.  **HKU Open-Sources Minimalist Jarvis.**
-    The HKU team has slimmed down OpenClaw 📉 into [Nanobot (AI News)](https://www.jiqizhixin.com/articles/2026-02-05-2), shrinking the codebase to just one percent of the original! Its pure Python implementation 🐍 totally lowers the entry barrier, so you can deploy it and get started in just two days. This project snagged five thousand stars (✧∀✧) within three days of launch – looks like everyone can get their own AI assistant now! 🤖
+2.  **GitButler**, the version control client, keeps evolving. This [open-source Git client (AI News)](https://github.com/gitbutlerapp/gitbutler) ⭐17.8k is built with Tauri/Rust/Svelte 🦀. It supports Windows, Mac, and Linux, boasting a modern interface and smooth operations 💡 to make version control more efficient. A game-changer!
 
-2.  **UI-TARS-desktop (⭐26.5k)**
-    ByteDance has open-sourced UI-TARS-desktop, a 🤖 multi-modal [agent tech stack (AI News)](https://github.com/bytedance/UI-TARS-desktop) that bridges cutting-edge models with infrastructure. Pretty cool, right?
+3.  **WaveTerm** is here to create seamless terminal workflows! This [open-source cross-platform terminal (AI News)](https://github.com/wavetermdev/waveterm) ⭐17.1k focuses on a smooth workflow experience, supporting multi-tab and split-screen operations 🖥️. It's a daily essential for developers, letting you ditch the terminal-switching hassle!
 
-3.  **Superpowers (⭐45.1k)**
-    Superpowers is a super effective 💡 [skill framework (AI News)](https://github.com/obra/superpowers) for agents, dishing out a solid software development methodology for developers. Get those dev superpowers! ✨
+4.  **LikeC4** ensures your architecture diagrams are always up-to-date. The [LikeC4 project (AI News)](https://github.com/likec4/likec4) ⭐1.9k defines architecture diagrams with code 📊. It supports real-time collaboration and version evolution, keeping your charts in sync with your code 💡. Say goodbye to outdated architecture documentation!
 
-4.  **PDF to Epub Tool (⭐New)**
-    This [e-book tool (AI News)](https://github.com/jarodise/pdf2epub-paddle), developed based on Baidu OCR APIs 📄, was crafted by Vibe Coding to help you "薅羊毛" (snag some sweet deals, or get more bang for your buck!). Pretty clever! 🤑
+### Social Media Shares
 
-### Social Media Share
+1.  **Agent Arena's AI prompt injection test** has sparked heated debate. [Hacker News discussion (AI News)](https://newshacker.me/story?id=46911873) is buzzing about this project, which uses honeypot web pages to trick AI. Gemini 3 could spot hidden injections📍, but Codex just spat out the verification token directly. The community has proposed protection tools like `scurl` and is questioning whether AI-generated content should even be submitted to Show HN. 🤔
 
-1.  **Figma's New Feature Goes Viral.**
-    Figma just dropped a new feature that turns bitmaps 🖼️ into [vector graphics (AI News)](https://x.com/tuturetom/status/2019222509535601063), and the accuracy is simply mind-blowing! Designers' biggest headache 😭 is finally solved, making the design workflow way more AI-native. What a game-changer! ✨
-    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgq97eg2eacttxspd3k22abz.mp4" controls="controls" width="100%"></video><br/>
+2.  **Baoyu** shared some wisdom on Agent memory updates. According to him, you don't need to make [Agent memory (AI News)](https://x.com/dotey/status/2019967340394303611) remember things it did right 🧠; it's the mistakes that need reviewing! When an Agent gets something right, turn it into a **Skill** so it can nail it again next time 💡 and avoid repeating pitfalls. Smart advice!
+    <br/>![AI News: Baoyu's Shared Agent Memory Management Interface Screenshot](https://source.hubtoday.app/images/2026/02/news_01kgw5qnxae319jb5htmcz0p5t.avif)<br/>
 
-2.  **Claude Code Adds Insight Command.**
-    Claude Code now sports a new `/insights` 🔍 command [for analyzing workflows (AI News)](https://x.com/dotey/status/2019312403289121213), essentially turning into your personal analyst for project debriefs. It can dig through historical 📜 message logs and serve up tailored optimization suggestions. Super handy! 🚀
+3.  **Twitter's new API** is effectively killing off free access, as Guicang discovered. [Twitter's new API (AI News)](https://x.com/op7418/status/2020029306827911437) makes free access nearly impossible now 😅. However, the new API supports the MCP protocol, allowing developers to use it through paid plans. The official word is they're opening up the ecosystem to welcome the next generation of X apps.
 
-3.  **Offline Meetup Reflects on Agent Future.**
-    At an offline meetup, Orange AI mused that agents 🤖 are gonna wipe out [time constraints (AI News)](https://x.com/oran_ge/status/2019422310508425263), making human input bandwidth the biggest bottleneck. Software skills 📚? Meh, they won't be as important. The Token economy is set to totally reshape our value system. Mind-blowing stuff! 🤯
+4.  **Skywork Desktop** is finally making PCs truly AI-powered. Fanren Xiaobei [recommends Skywork Desktop (AI News)](https://x.com/frxiaobei/status/2019680132039078397) 🖥️, calling it what an AI PC should be. It integrates directly at the operating system level, so you can boot up, dump your tasks on the computer, and pretty much clock out! Windows users won't have to wait for Claude Cowork anymore. 💪
+    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgw5s59zfyqajhqfnt9a1sc7.mp4" controls="controls" width="100%"></video><br/>
 
 ---
 
-## **AI News Daily: Voice Edition**
+## **AI Daily Briefing: Audio Edition**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
 | --- | --- |
-| [Laisheng Bistro](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Bistro](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Hub](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Next Life Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
