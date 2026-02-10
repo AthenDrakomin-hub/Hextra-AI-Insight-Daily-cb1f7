@@ -4,25 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### What's up, He Xi 2077 / justlovemaki! 👋
+#### Hexi 2077 / justlovemaki
 
-> A decade coding, fingers chill,
-> Unspoken struggles, standing still.
-> Then AI's storm, a rumble deep,
-> To challenge skies, my promise keep.
+> Ten years of coding, fingers a bit weary 🥶.
+> Had some big dreams bottled up, ready to break free.
+> Then AI's boom hit like a lightning storm ⚡,
+> And I'm all in, ready to play my part in this new tech wave!
 
-#### My Code Philosophy 💡
+#### My Code Philosophy 🤔
 
-> Tech for the people, always!
+> Technology serves the people! ❤️
 
-#### My Portfolio 🌟
+#### Featured Projects ⭐
 
-*   **[Open Source Contribution: CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This **AI Image Generation script** is powered by Cloudflare Workers.
-*   **[Open Source Contribution: CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This **content aggregation and generation platform**, running on Cloudflare Workers, daily dishes out the hottest AI trends for you. We're talking industry news, popular open-source projects, groundbreaking academic papers, and all the juicy takes from tech influencers on social media.
-*   Wanna know more? Dive into my [GitHub](https://github.com/justlovemaki) for the full scoop.
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script powered by Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This platform, driven by Cloudflare Workers, is a content aggregation and generation powerhouse! It daily curates the hottest updates in the AI field for you, covering industry news, trending open-source projects, cutting-edge academic papers, and insights from top tech influencers across social media. 🚀
+*   Wanna dive deeper into my projects? Check out my [GitHub](https://github.com/justlovemaki)! 👇
 
-#### What I'm Exploring Right Now 🌱
+#### Currently Exploring 💡
 
-> Currently, **I'm super into LLM applications and website SEO**, actively diving deep into learning and getting my hands dirty with practice.
+I'm super stoked about LLM applications and website SEO right now, actively diving deep into learning and getting hands-on with them! 🚀
